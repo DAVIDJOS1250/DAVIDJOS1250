@@ -1,78 +1,57 @@
-## Hi there 👋# DAVIDJOS
+# DAVIDJOS
 
-**DAVIDJOS** is a global, blockchain-powered airdrop and mining platform that allows users to **earn real money** by simply spending time on the app. Users mine DAVIDJOS tokens which are converted to **SkyCoins (SKD)** — a digital currency valued at **$2,000 per SKD**.
+**DAVIDJOS** is a global airdrop and money transfer platform powered by Ethereum. It allows users to mine, earn, and convert **SkyCoin (SKD)** into real money (USD or NGN), and withdraw directly to select bank accounts like UBA, First Bank, and Bank of America.
 
----
+## 💡 Key Features
 
-## 🌍 Features
+- ⛏️ Users mine DAVIDJOS tokens daily
+- 💰 Earn $2,000 for each SkyCoin (SKD) mined
+- 🌐 Supports unlimited users with unique wallets
+- 🔄 Converts SKD to USD or NGN through SkyWallet
+- 🏦 Real-time payouts to UBA, First Bank, Bank of America
+- 📲 Monetized mobile app (Android & iPhone)
 
-- ⛏️ **Token Mining**: Mine DAVIDJOS tokens by spending time on the app.
-- 💵 **Real Money Transfer**: Convert mined tokens to SKD, then withdraw in USD or NGN.
-- 🏦 **Bank Transfers**: Transfer funds to supported banks (UBA, First Bank, Bank of America).
-- 💳 **Wallet Integration**: Receive earnings in **SkyWallet**, connected to MetaMask and BYBIT.
-- 📱 **Mobile-Friendly**: Available for both Android and iPhone.
-- 🌐 **Unlimited Users**: Open to anyone globally with unique wallet addresses.
+## 🎯 Token Details
 
----
+- **Token Name:** DAVIDJOS
+- **Total Supply:** 21,000,000 tokens
+- **Value per Token:** $1
+- **Mining Pool:** 100,000 SKD mined per day
+- **Host Revenue:** $200M/day from mining
 
-## 📈 Monetization
+## 📱 Mobile App
 
-DAVIDJOS generates revenue through:
+- App size: 360 MB  
+- Space required: 20 MB  
+- Data usage: 5 MB/minute  
+- Monetized by clicks, watch time, and subscription
 
-1. User clicks and interactions
-2. Time spent in-app
-3. Mobile data usage (5 MB/minute)
-4. Subscription and mining rate
+## 🛡️ Wallet & Transfers
 
----
+- **SkyWallet:** Official DAVIDJOS wallet  
+- Convert SKD to USD/NGN  
+- Transfer to:  
+  - Bank of America  
+  - UBA  
+  - First Bank  
 
-## 🔐 Token Supply
+## 🔐 Repositories and API
 
-- Total Supply: **21,000,000 DAVIDJOS**
-- Daily Mining: **100,000 SKD = $200,000,000**
-- Host earns $2,000 per SKD mined by users
+- Main repository name: `DAVIDJOS`
+- Backend API for handling mining, conversion, and payment
+- Frontend app for user interaction and mining interface
 
----
+## 🚀 Deployment
 
-## 💼 Wallet System
+This project is intended for full-stack deployment:
+- **Frontend:** Static hosting (HTML/CSS/JS)
+- **Backend:** Hosted server with secure key management (Node.js, Python, etc.)
 
-- **SkyWallet** supports:
-  - SKD to USD or NGN conversion
-  - Transfers to UBA, First Bank, Bank of America
-- Auto payout to:
-  - **MetaMask**: `0xE20ed7bD0e35910b0cCF68FA125d793f85dE9343`
-  - **BYBIT**: `davidjos 305357420`
+> ⚠️ **Security Note**: Do not expose secret keys or tokens in your frontend code. All payment actions must be routed securely through your backend.
 
----
+## 📬 Contact & Support
 
-## 🚫 Restrictions
-
-- Users cannot create their own repositories inside DAVIDJOS
-- All app transactions must be handled through SkyWallet
-
----
-
-## 🔗 Project Links
-
-- **Frontend**: Hosted Web App
-- **API**: Secure backend API (Node.js/Python recommended)
-- **Repository Name**: `DAVIDJOS` (official project directory)
-
----
-
-> ⚠️ Warning: Never expose real secret keys in frontend code. Always route payments through a secure backend server.
-
-<!--
-**DAVIDJOS1250/DAVIDJOS1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Support: support@davidjos.io
+- Official Wallets:
+  - Opay: `david oluwayimika Daniel 8107300218`
+  - MetaMask: `0xE20ed7bD0e35910b0cCF68FA125d793f85dE9343`
